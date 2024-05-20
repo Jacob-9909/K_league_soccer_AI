@@ -19,7 +19,8 @@ Hello! I'm Woohyuck Jeong. I majored in Finance and data science and primarily u
 ---
 
 ## Skills
-"https://img.shields.io/badge/Python-#3776AB?style=plastic&logo=Python&logoColor=white"
+![Python Badge](https://img.shields.io/badge/Python-3776AB?style=plastic&logo=Python&logoColor=white)
+
 ---
 ## SNS
 
