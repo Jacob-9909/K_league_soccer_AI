@@ -1,3 +1,4 @@
+![python](https://github.com/Jacob-9909/Jacob_hub/assets/137075988/51da7c88-61cc-441e-84d2-b6864c5e0be3)
 ![header](https://capsule-render.vercel.app/api?type=transparent&color=timeAuto&height=300&section=header&text=Welcome&desc=Jacob`s%20Github%20Profile&fontSize=90&descSize=20&descAlign=70&descAlignY=70)
 
 ## Introduction
@@ -11,17 +12,16 @@ Hello! I'm Woohyuck Jeong. I majored in Finance and data science and primarily u
 
 ---
 ## Interests
-
 -
 -
-
 ---
-
 ## Skills
 ![Python Badge](https://img.shields.io/badge/Python-3776AB?style=plastic&logo=Python&logoColor=white)
-![PyTorch Badge](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white)
-
+![PyTorch Badge](https://img.shields.io/badge/PyTorch-EE4C2C?style=plastic&logo=PyTorch&logoColor=white)
+![Jupyter Badge](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white)
+![VSCode Badge](https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=VisualStudioCode&logoColor=white)
 ---
 ## SNS
+[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/hyuck__woo/)
 
 
