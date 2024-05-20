@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=Venom&color=auto&height=300&section=header&text=Welcome&Jacob`s Github Profile&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=Transparent&color=auto&height=300&section=header&text=Welcome&Desc=Jacob`sGithubProfile%20&fontSize=90&descSize=50)
 
 ## Introduction
 
