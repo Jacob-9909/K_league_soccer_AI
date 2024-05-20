@@ -1,4 +1,3 @@
-![python](https://github.com/Jacob-9909/Jacob_hub/assets/137075988/51da7c88-61cc-441e-84d2-b6864c5e0be3)
 ![header](https://capsule-render.vercel.app/api?type=transparent&color=timeAuto&height=300&section=header&text=Welcome&desc=Jacob`s%20Github%20Profile&fontSize=90&descSize=20&descAlign=70&descAlignY=70)
 
 ## Introduction
