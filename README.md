@@ -1,3 +1,5 @@
+# My Project
+
 ![header](https://capsule-render.vercel.app/api?type=transparent&color=timeAuto&height=300&section=header&text=Welcome&desc=Jacob`s%20Github%20Profile&fontSize=90&descSize=20&descAlign=70&descAlignY=70)
 
 ## Introduction
@@ -8,7 +10,7 @@ I have worked on various projects involving machine learning, deep learning and 
 - **Name**: Woohyuck Jeong
 - **Major**: Finance, Data science
 - **Email**: cj0336j@gmail.com
-- **GitHub**: (https://github.com/Jacob-9909/Jacob_hub)
+- **GitHub**: [Jacob's GitHub](https://github.com/Jacob-9909/Jacob_hub)
 
 ## Studying
 - Time-Series Analytics
@@ -25,5 +27,3 @@ I have worked on various projects involving machine learning, deep learning and 
 
 ## SNS
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/hyuck__woo/)
-
-
