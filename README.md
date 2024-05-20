@@ -9,11 +9,11 @@ I have worked on various projects involving machine learning, deep learning and 
 - **Major**: Finance, Data science
 - **Email**: cj0336j@gmail.com
 - **GitHub**: (https://github.com/Jacob-9909/Jacob_hub)
----
+
 ## Studying
 - Time-Series Analytics
 - Natural Language Processing
----
+
 ## Skills
 ![Python Badge](https://img.shields.io/badge/Python-3776AB?style=plastic&logo=Python&logoColor=white)
 ![PyTorch Badge](https://img.shields.io/badge/PyTorch-EE4C2C?style=plastic&logo=PyTorch&logoColor=white)
@@ -22,7 +22,7 @@ I have worked on various projects involving machine learning, deep learning and 
 ![Docker Badge](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white)
 ![Colab Badge](https://img.shields.io/badge/Colab-F9AB00?style=flat-square&logo=Google%20Colab&logoColor=white)
 ![MySQL Badge](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
----
+
 ## SNS
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/hyuck__woo/)
 
